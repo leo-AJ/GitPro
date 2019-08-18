@@ -18,4 +18,11 @@ git reset --hard HEAD~x  ：回到第X版本
 
 git rm XXX.txt  --> git rm --> git commit 删除XXX.txt 文件 
                 --> git checkout 撤销删除文件
-				
+
+git remote add origin git@github.com:leo-AJ/GitPro.git 添加远程库关联
+
+git remote remove origin 取消远程库关联
+
+git push -u origin master 	第一次推送到远端
+
+git push origin master 推送到远端				
