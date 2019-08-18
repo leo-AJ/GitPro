@@ -9,3 +9,9 @@
 git add “文件名”
 
 git commit -m “说明信息”
+
+git status : 查看当前状态
+
+git log ：查看提交日志
+
+git reset --hard HEAD~x  ：回到第X版本
