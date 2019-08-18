@@ -1,0 +1,11 @@
+这篇文章是复习上周Git的学习
+
+打开命令行，在自己想要的路径下 mkdir XXX 创建XXX文件夹（mkdir是WIN10的命令）
+
+进入XXX文件路径下，git init 进行初始化命令
+
+编辑自己的文件
+
+git add “文件名”
+
+git commit -m “说明信息”
