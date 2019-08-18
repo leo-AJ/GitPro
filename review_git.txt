@@ -15,3 +15,7 @@ git status : 查看当前状态
 git log ：查看提交日志
 
 git reset --hard HEAD~x  ：回到第X版本
+
+git rm XXX.txt  --> git rm --> git commit 删除XXX.txt 文件 
+                --> git checkout 撤销删除文件
+				
